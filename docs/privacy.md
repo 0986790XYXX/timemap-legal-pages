@@ -89,7 +89,7 @@ title: 隐私政策 - TimeMap
 
 如您对本隐私政策、您的个人信息处理有任何疑问、意见、投诉，请通过以下方式联系：
 
-- 邮箱：[your-email@example.com]
+- 邮箱：dcjwf@qq.com
 - GitHub Issues：https://github.com/0986790XYXX/DailyMap-App/issues
 
 我们将在 15 个工作日内回复您的请求。

@@ -89,7 +89,7 @@ We may update this Privacy Policy from time to time. Significant updates will be
 
 If you have any questions, comments, or complaints about this Privacy Policy or the processing of your personal information, please contact us:
 
-- Email: [your-email@example.com]
+- Email: dcjwf@qq.com
 - GitHub Issues: https://github.com/0986790XYXX/DailyMap-App/issues
 
 We will respond within 15 working days.

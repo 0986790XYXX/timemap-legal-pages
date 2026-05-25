@@ -74,5 +74,5 @@ These Terms are governed by the laws of the People's Republic of China (excludin
 
 For any questions about these Terms, please contact:
 
-- Email: [your-email@example.com]
+- Email: dcjwf@qq.com
 - GitHub Issues: https://github.com/0986790XYXX/DailyMap-App/issues

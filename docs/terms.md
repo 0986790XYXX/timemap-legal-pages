@@ -74,5 +74,5 @@ title: 用户协议 - TimeMap
 
 如您对本协议有任何疑问，可通过以下方式联系：
 
-- 邮箱：[your-email@example.com]
+- 邮箱：dcjwf@qq.com
 - GitHub Issues：https://github.com/0986790XYXX/DailyMap-App/issues
